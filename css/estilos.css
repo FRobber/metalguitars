@@ -1,0 +1,77 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#all1 {
+    width: 70%;
+    margin-left: 15%;
+    background-color: #FFF27F;
+}
+#all1 {
+}
+
+#img {
+    width: 50%;
+}
+#img {
+    right: 30%;
+}
+#ibanez {
+    padding: 10px;
+}
+#ibanez {
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    background-image: url(url);
+}
+#fender {
+    background-color: #A97900;
+    margin: 10px;
+    padding: 10px;
+}
+#esp {
+    background-color: #F60022;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#jackson {
+    background-color: #0066D9;
+    margin: 10px;
+    padding: 10px;
+}
+#ernie {
+    background-color: #4D0088;
+    margin: 10px;
+    padding: 10px;
+}
+#ibanez p img {
+    float: left;
+    padding-right: 10px;
+}
+#fender p img {
+    float: right;
+}
+#esp p img {
+    float: left;
+    padding-right: 10px;
+}
+#jackson p img {
+    float: right;
+}
+#ernie p img {
+    float: left;
+    padding-right: 10px;
+}
+#imgindex {
+    background-image: url(../images/unnamed.jpeg);
+    margin: 10px;
+}
+#imgindex {
+    background-image: none;
+    margin: 10px;
+}
